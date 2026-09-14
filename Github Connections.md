@@ -1,6 +1,4 @@
-###### **NEW LOCAL PROJECT → COMPLETELY EMPTY GITHUB REPOSITORY**
-
-##### 
+<h3>NEW LOCAL PROJECT → COMPLETELY EMPTY GITHUB REPOSITORY</h3>
 
 cd "C:\\path\\to\\project"
 
@@ -17,12 +15,9 @@ git branch -M main
 git remote add origin https://github.com/USERNAME/REPOSITORY.git
 
 git push -u origin main
+ 
 
-##### 
-
-###### **After that, whenever you make changes:**
-
-##### 
+<h4>After that, whenever you make changes:</h4>
 
 git add .
 
@@ -30,13 +25,9 @@ git commit -m "Describe your changes"
 
 git push
 
-##### 
 
-##### 
-
-###### **NEW LOCAL PROJECT → GITHUB REPOSITORY ALREADY HAS COMMITS**
-
-##### 
+<h3>NEW LOCAL PROJECT → GITHUB REPOSITORY ALREADY HAS COMMITS</h3>
+ 
 
 cd "C:\\path\\to\\project"
 
@@ -56,11 +47,9 @@ git pull --rebase origin main
 
 git push -u origin main
 
-##### 
 
-###### **After that, whenever you make changes:**
+<h4>After that, whenever you make changes:</h4>
 
-##### 
 
 git add .
 
@@ -68,13 +57,9 @@ git commit -m "Describe your changes"
 
 git push
 
-##### 
 
-###### 
+<h3>IMPORTANT NOTES</h3>
 
-###### **IMPORTANT NOTES**
-
-##### 
 
 git add .
 
